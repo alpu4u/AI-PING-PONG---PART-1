@@ -19,3 +19,16 @@
 #start, #status{
     font-size: 22px;
 }
+
+.copy_right_footer
+{
+   position: fixed; 
+   color: blue;
+   bottom: 0;
+   width: 99%;
+   background-color: lightgreen;
+   line-height: 2;
+   text-align: center;
+   text-decoration: underline;
+  font-weight: bold;
+}
